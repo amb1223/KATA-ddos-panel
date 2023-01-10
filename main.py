@@ -636,8 +636,8 @@ def main():
                 pass
             
 def login():
-    user = "0112"
-    passwd = "0112"
+    user = "tohid"
+    passwd = "tohid"
     username = input("⚡ Username: ")
     password = getpass.getpass(prompt='⚡ Password: ')
     if username != user or password != passwd:
