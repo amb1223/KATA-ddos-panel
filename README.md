@@ -41,7 +41,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/katavnnn/KATA-ddos-panel/
+git clone https://github.com/amb1223/KATA-ddos-panel/
 cd KATA-ddos-panel
 npm i requests
 npm i https-proxy-agent
